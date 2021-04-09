@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T04:29:36.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" version="14.5.8" etag="k7KS1EhlWPYGRl-UrWy6" type="github"><diagram id="jC54DksxjrCDbR4Aywiz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-09T05:39:05.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Tvfz3Bq1Seg7vDFpyz6w" version="14.5.8" type="github">
+  <diagram id="jC54DksxjrCDbR4Aywiz" name="Page-1">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wHAWA5EMy6HvJaYUhkgV-6" value="card" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/streamline-icon-set-free-pack/48/Streamline-17-128.png" vertex="1" parent="1">
+          <mxGeometry x="250" y="400" width="450" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="wHAWA5EMy6HvJaYUhkgV-7" value="pawn my items" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="480" y="510" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHAWA5EMy6HvJaYUhkgV-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Secondary card title&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#5B646A;html=1;whiteSpace=wrap;fillColor=#6C767D;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="330" y="580" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wHAWA5EMy6HvJaYUhkgV-18" value="Header" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#697279;strokeColor=#5B646A;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="wHAWA5EMy6HvJaYUhkgV-17">
+          <mxGeometry width="300" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wHAWA5EMy6HvJaYUhkgV-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Secondary card title&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#5B646A;html=1;whiteSpace=wrap;fillColor=#6C767D;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="330" y="650" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wHAWA5EMy6HvJaYUhkgV-20" value="Header" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#697279;strokeColor=#5B646A;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="wHAWA5EMy6HvJaYUhkgV-19">
+          <mxGeometry width="300" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wHAWA5EMy6HvJaYUhkgV-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Secondary card title&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#5B646A;html=1;whiteSpace=wrap;fillColor=#6C767D;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="330" y="720" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wHAWA5EMy6HvJaYUhkgV-22" value="Header" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#697279;strokeColor=#5B646A;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="wHAWA5EMy6HvJaYUhkgV-21">
+          <mxGeometry width="300" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wHAWA5EMy6HvJaYUhkgV-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elysium-icons/24/Bracket_Left.png" vertex="1" parent="1">
+          <mxGeometry x="640" y="520" width="24" height="24" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
